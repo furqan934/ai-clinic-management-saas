@@ -1,0 +1,14 @@
+node_modules
+.env
+dist
+build
+./client/node_modules
+./client/build
+./server/node_modules
+./server/build
+.DS_Store
+*.log
+*.env
+.vscode
+.idea
+*.suo
